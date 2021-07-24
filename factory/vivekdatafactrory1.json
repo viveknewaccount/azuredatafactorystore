@@ -1,0 +1,9 @@
+{
+	"name": "vivekdatafactrory1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b0c7d211-12b9-4f05-bc2f-17c5f9ca7524",
+		"tenantId": "d2a319e0-3c3b-45a7-b76b-57e17f910d15"
+	}
+}
